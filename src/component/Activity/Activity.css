@@ -1,0 +1,9 @@
+.activity{
+    border: 2px solid goldenrod;
+    border-radius: 16px;
+    
+}
+
+.activity img{
+    width: 200px;
+}
